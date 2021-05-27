@@ -24,4 +24,4 @@ def test_get():
 
     assert response.status_int == 200
     assert response.body == 'Hello, World!'
-© 2021 GitHub, I
+
