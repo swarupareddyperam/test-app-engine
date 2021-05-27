@@ -15,7 +15,7 @@
 runtime: python27
 api_version: 1
 threadsafe: true
-servce: testapp
+service: testapp
 
 handlers:
 - url: /.*
